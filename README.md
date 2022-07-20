@@ -1,6 +1,7 @@
 <div align="center">
   
 ### Hi there 👋
+### Basically I write Rust at the moment but JS always in our hearts
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
