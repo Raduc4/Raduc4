@@ -17,6 +17,5 @@
   
 [![stats]](https://github.com/anuraghazra/github-readme-stats)
 
-[![languages]](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
