@@ -12,7 +12,7 @@
 
 [![twitter]](https://twitter.com/radu_c4)
 [![linkedin]](https://www.linkedin.com/in/radioncz/)
-[![telegram]](https://t.me/lamacama200/)
+[![telegram]](https://t.me/lamacama600/)
 [![views]](https://github.com/antonkomarev/github-profile-views-counter)
   
 [![stats]](https://github.com/anuraghazra/github-readme-stats)
