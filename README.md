@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi there 👋
-### Basically I write Rust at the moment but JS always in our hearts
+### I'm a developer with 5 years of experience that like to think about architectures and how the code works under the hood. My natural environments are start-ups and Rust open source projects. Worked with Nodejs, React, Rust and Python.
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
