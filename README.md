@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi there 👋
-### I'm a developer with 5 years of experience that likes to think about the architecture and how the code works under the hood. My natural environments are start-ups and Rust open source projects. Worked with Nodejs, React, Rust and Python.
+### I'm a developer with 5 years of experience that likes to think about the architecture and how the code works under the hood. My interests include start-ups and Rust open source projects. Worked with Nodejs, React, Rust and Python.
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
