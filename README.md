@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi there 👋
-### My journey in tech spans an exciting 5-year adventure. I'm particularly captivated by the world of startups and thrive on contributing to the thriving ecosystem of Rust open source projects. My versatile skill set encompasses Node.js, React, Rust, and Python, allowing me to craft innovative solutions. 🚀💻
+### Node.js, React, Rust 🚀💻
 
 [linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
 [telegram]: https://img.shields.io/static/v1?label=&message=Telegram&&color=3B3B7A&logo=telegram
